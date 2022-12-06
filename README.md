@@ -12,3 +12,7 @@ V2: Added Separable Convolutions with filter numbers [32](https://github.com/Ric
 [V3: Added residual blocks](https://github.com/Rice-COMP576-2022/Rice-Covid-Net/blob/main/CovidNet/CovidNet-Res-Sep256/CovidNet-Res-Sep256.ipynb).   
 [V3 network with Data Augmentation](https://github.com/Rice-COMP576-2022/Rice-Covid-Net/blob/main/CovidNet/CovidNet-Res-Sep256/CovidNet-Res-Sep256-With-data-augmentation.ipynb).  
 
+code reference: 
+https://www.kaggle.com/code/justicevil/covid19-image-classification-vgg16-val-acc-98
+
+
